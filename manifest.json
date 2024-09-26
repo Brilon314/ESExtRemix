@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "ESExtPRO Remix",
-  "version": "24.06.08.1",
+  "name": "ESExtRemix",
+  "version": "24..09.26",
   "description": "Desde el pasado, en el presente, hacia el futuro.",
   "icons": {
     "128": "base/icon.png"
